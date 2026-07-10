@@ -4,6 +4,22 @@ An AI-powered web application that provides contextual interpretations of script
 
 ---
 
+## 📸 Application Preview
+
+### Home Screen
+
+![Home](screenshots/HomePage.jpeg)
+
+### Simple Explanation
+
+![Simple](screenshots/Interpretation.jpeg)
+
+### Compare Mode
+
+![Compare](screenshots/Compare.png)
+
+---
+
 ## 🚀 Features
 
 - 📖 Supports Bhagavad Gita, Quran, and Holy Bible
